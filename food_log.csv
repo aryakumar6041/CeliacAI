@@ -1,0 +1,24 @@
+| date       | time     | food_name                | food_type    | ingredient_text                     | gluten_result           | detected_gluten |
+| ---------- | -------- | ------------------------ | ------------ | ----------------------------------- | ----------------------- | --------------- |
+| 2026-07-01 | 8:15 AM  | Greek Yogurt             | Packaged     | Milk, live cultures, sugar          | No Obvious Gluten Found | None            |
+| 2026-07-01 | 12:45 PM | Chicken Rice Bowl        | Homemade     | Unknown                             | Unknown                 | Unknown         |
+| 2026-07-01 | 4:30 PM  | Granola Bar              | Packaged     | Oats, wheat flour, sugar, chocolate | Contains Gluten         | Wheat flour     |
+| 2026-07-01 | 7:30 PM  | Vegetable Soup           | Homemade     | Unknown                             | Unknown                 | Unknown         |
+| 2026-07-02 | 9:00 AM  | Gluten-Free Cereal       | Packaged     | Corn, sugar, rice flour             | No Obvious Gluten Found | None            |
+| 2026-07-02 | 1:00 PM  | Turkey Sandwich          | Restaurant   | Unknown                             | Unknown                 | Unknown         |
+| 2026-07-02 | 6:30 PM  | Apple                    | Natural Food | Apple                               | No Obvious Gluten Found | None            |
+| 2026-07-03 | 8:30 AM  | Eggs and Potatoes        | Homemade     | Unknown                             | Unknown                 | Unknown         |
+| 2026-07-03 | 2:00 PM  | Homemade Pasta           | Homemade     | Unknown                             | Unknown                 | Unknown         |
+| 2026-07-03 | 6:45 PM  | Grilled Chicken and Rice | Homemade     | Unknown                             | Unknown                 | Unknown         |
+| 2026-07-04 | 10:00 AM | Gluten-Free Protein Bar  | Packaged     | Nuts, dates, gluten-free oats       | No Obvious Gluten Found | None            |
+| 2026-07-04 | 1:30 PM  | Salad Bowl               | Restaurant   | Unknown                             | Unknown                 | Unknown         |
+| 2026-07-04 | 8:00 PM  | Homemade Pasta           | Homemade     | Unknown                             | Unknown                 | Unknown         |
+| 2026-07-05 | 8:45 AM  | Smoothie                 | Natural Food | Fruit, milk, yogurt                 | Unknown                 | Unknown         |
+| 2026-07-05 | 12:30 PM | Rice and Vegetables      | Homemade     | Unknown                             | Unknown                 | Unknown         |
+| 2026-07-05 | 5:00 PM  | Cookies                  | Packaged     | Wheat flour, sugar, cocoa           | Contains Gluten         | Wheat flour     |
+| 2026-07-06 | 9:15 AM  | Oatmeal                  | Homemade     | Unknown                             | Unknown                 | Unknown         |
+| 2026-07-06 | 1:45 PM  | Chicken Tacos            | Restaurant   | Unknown                             | Unknown                 | Unknown         |
+| 2026-07-06 | 7:15 PM  | Fruit Bowl               | Natural Food | Fruit                               | No Obvious Gluten Found | None            |
+| 2026-07-07 | 8:45 AM  | Gluten-Free Bread        | Packaged     | Rice flour, tapioca starch          | No Obvious Gluten Found | None            |
+| 2026-07-07 | 2:00 PM  | Homemade Pasta           | Homemade     | Unknown                             | Unknown                 | Unknown         |
+| 2026-07-07 | 7:00 PM  | Chicken Curry with Rice  | Homemade     | Unknown                             | Unknown                 | Unknown         |
